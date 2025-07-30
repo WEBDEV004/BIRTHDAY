@@ -47,5 +47,5 @@ if not st.session_state.gift_opened:
         st.balloons()
 else:
     st.success("💖 Surprise!")
-    st.image("assets\sudha.jpg", caption="A Special Gift for You 💌", use_container_width=True)
+    st.image("assets/sudha.jpg", caption="A Special Gift for You 💌", use_container_width=True)
     
