@@ -25,7 +25,7 @@ st.markdown(
 )
 
 # Default photo before opening the gift
-st.image("assets\hb.gif", caption="🎉 Your Special Day!", use_container_width=True)
+st.image("assets/hb.gif", caption="🎉 Your Special Day!", use_container_width=True)
 
 # Countdown
 now = datetime.now()
